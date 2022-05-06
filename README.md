@@ -3,7 +3,7 @@
 
 
 <p>
-  <h4 align="center"><b>"I'm a CSE undergraduate and a passionate programmer who loves to code. I enjoy experimenting with new technologies and tools. I adore opensource and believe that we all owe it to the community to give back."</b></h4>
+  <h4 align="center"><b>"I'm a CSE graduate and a passionate programmer who loves to code. I enjoy experimenting with new technologies and tools. I adore opensource and believe that we all owe it to the community to give back."</b></h4>
 </p>
 
 <p align="center">
