@@ -22,7 +22,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif" />
 
-- 🌱  I’m currently working on creating a porfolio for my self, learning **Angular** and working on some open source projects.
+- 🌱  I’m currently working on creating a porfolio for my self, learning **Angular, Node, FastAPI etc** and working on some open source projects.
 
 - 👯  I’m looking to collaborate on **Open Source Projects** and **Content Creation**.
 
